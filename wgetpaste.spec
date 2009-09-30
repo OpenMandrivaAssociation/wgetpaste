@@ -1,13 +1,11 @@
 Name:		wgetpaste
-Version:	2.13
+Version:	2.14
 Release:	%mkrel 1
 Summary:	pastebin command line tool
 URL:		http://wgetpaste.zlin.dk
 Source0:	http://wgetpaste.zlin.dk/wgetpaste-%{version}.tar.bz2
 Source1:	pastebin.mandriva.com.conf
-# FIXME: file is not very clear about license. I sent an email to the
-# author to ask about it
-License:	??
+License:	Public Domain
 Requires:	wget
 Group:		Networking/WWW
 BuildArch:	noarch
