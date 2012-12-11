@@ -33,3 +33,16 @@ websites.
 %defattr(-,root,root)
 %config(noreplace) %{_sysconfdir}/wgetpaste.d/*
 %{_bindir}/%{name}
+
+
+%changelog
+* Wed Mar 16 2011 Stéphane Téletchéa <steletch@mandriva.org> 2.18-1mdv2011.0
++ Revision: 645487
+- update to new version 2.18
+
+* Wed Sep 30 2009 Nicolas Vigier <nvigier@mandriva.com> 2.14-1mdv2010.0
++ Revision: 451641
+- version 2.14
+- license changed: public domain
+- import wgetpaste
+
