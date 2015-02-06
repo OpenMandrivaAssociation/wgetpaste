@@ -1,6 +1,6 @@
 Name:		wgetpaste
 Version:	2.18
-Release:	%mkrel 1
+Release:	2
 Summary:	pastebin command line tool
 URL:		http://wgetpaste.zlin.dk
 Source0:	http://wgetpaste.zlin.dk/wgetpaste-%{version}.tar.bz2
