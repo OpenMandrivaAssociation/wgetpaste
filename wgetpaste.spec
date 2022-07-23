@@ -1,5 +1,5 @@
 Name:		wgetpaste
-Version:	2.29
+Version:	2.30
 Release:	1
 Summary:	pastebin command line tool
 URL:		http://wgetpaste.zlin.dk
