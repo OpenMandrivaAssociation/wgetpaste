@@ -1,8 +1,8 @@
 Name:		wgetpaste
-Version:	2.33
+Version:	2.34
 Release:	1
 Summary:	pastebin command line tool
-URL:		http://wgetpaste.zlin.dk
+URL:		https://wgetpaste.zlin.dk
 Source0:  https://github.com/zlin/wgetpaste/releases/download/%{version}/wgetpaste-%{version}.tar.xz
 #Source0:	http://wgetpaste.zlin.dk/wgetpaste-%{version}.tar.bz2
 Source1:	pastebin.mandriva.com.conf
